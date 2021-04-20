@@ -1,0 +1,15 @@
+{
+  "name": "hefesto-datastructures",
+  "version": "1.0.0",
+  "description": "Data Structures",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.mjs"
+  },
+  "author": "Henrique Figueiredo de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "@std/esm": "^0.26.0"
+  }
+}
